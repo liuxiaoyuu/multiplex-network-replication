@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-28",
+  "status": "PASS",
+  "villages": 69,
+  "layers": 8,
+  "comparisons": 552,
+  "nonmissing_DC": 544,
+  "max_absolute_difference": 9.3792e-13,
+  "runtime_seconds": 9.811,
+  "scope": "Eight layers reconstructed; backbone remains author-derived. No giant-component restriction in DC."
+}

@@ -1,0 +1,7 @@
+Package: multiplexing.reproduction
+Title: Multiplex Network Diffusion Reproduction
+Version: 0.1.0
+Authors@R: person("Xiaoyu", "Liu", role = c("aut", "cre"))
+Description: Independently implemented partial reproduction with exploratory nested validation.
+License: MIT + file LICENSE
+Imports: R.matlab, haven, jsonlite, ggplot2, renv

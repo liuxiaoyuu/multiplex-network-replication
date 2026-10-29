@@ -1,0 +1,559 @@
+{
+  "commit": "c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f",
+  "date": "2026-10-28",
+  "files": [
+    {
+      "source_path": "data/raw/rct_villages/rct_network_adjacency_layers.mat",
+      "filename": "rct_network_adjacency_layers.mat",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/rct_network_adjacency_layers.mat",
+      "bytes": 504854,
+      "sha256": "d8959055b3bc9b64d47ed25655855f1c7e5e338b30248ad0751fc7f63f5fc783"
+    },
+    {
+      "source_path": "data/raw/rct_villages/rct_hh_vertex_crosswalk.mat",
+      "filename": "rct_hh_vertex_crosswalk.mat",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/rct_hh_vertex_crosswalk.mat",
+      "bytes": 8428,
+      "sha256": "7f48f9ec8e73d217aee44b7ea533e57a63b6f1988582963c82a17eb6201c30dd"
+    },
+    {
+      "source_path": "data/raw/rct_villages/rct_hh_covariates.dta",
+      "filename": "rct_hh_covariates.dta",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/rct_hh_covariates.dta",
+      "bytes": 880234,
+      "sha256": "7d63e09aa1610c59b32ad2877efd4f2b9d5a4f5bbd9c2feaa8fedf37654c63b2"
+    },
+    {
+      "source_path": "data/processed/rct_villages/rct_network_adjacency_layers.RData",
+      "filename": "rct_network_adjacency_layers.RData",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/processed/rct_villages/rct_network_adjacency_layers.RData",
+      "bytes": 2712597,
+      "sha256": "f3259c0e6c26737d0a824e1016c1f66ebbf64a6c26ebf3d32593cdfa3e76de3a"
+    },
+    {
+      "source_path": "data/processed/rct_villages/rct_hh_pair_jati_layer.rds",
+      "filename": "rct_hh_pair_jati_layer.rds",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/processed/rct_villages/rct_hh_pair_jati_layer.rds",
+      "bytes": 344852,
+      "sha256": "d97e7735cd18d5a1989419b336d3e393e0bc55255f2d144998457134e3d05a8c"
+    },
+    {
+      "source_path": "code/01_data_prep.R",
+      "filename": "01_data_prep.R",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/code/01_data_prep.R",
+      "bytes": 15571,
+      "sha256": "f0f06ab0bb0686cf61b5334673018c0065f2320a0a591d47b88507e0ca1d38c0"
+    },
+    {
+      "source_path": "code/03_backbone_with_jati.R",
+      "filename": "03_backbone_with_jati.R",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/code/03_backbone_with_jati.R",
+      "bytes": 2084,
+      "sha256": "886efa2402308d5202df45767debe70a97fabf0ea76047283c531a7db10cf1e0"
+    },
+    {
+      "source_path": "code/00_packages.R",
+      "filename": "00_packages.R",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/code/00_packages.R",
+      "bytes": 1955,
+      "sha256": "03289977172075cb843cb431ceb1d789bc349e7e850a014895468fe725e173dc"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_1.csv",
+      "filename": "covariates_1.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_1.csv",
+      "bytes": 7639,
+      "sha256": "4655536492dfa9f21e903054011622f0c6fe69ea749729aaccef3cc5697f44bf"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_10.csv",
+      "filename": "covariates_10.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_10.csv",
+      "bytes": 6294,
+      "sha256": "931ce302fdbb42eb52914c1def113c01dfde3e04d5acc19cd15854a3b95fe84b"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_11.csv",
+      "filename": "covariates_11.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_11.csv",
+      "bytes": 7678,
+      "sha256": "ac9f4ec91a27673675640bb61f159af9023bff125499b3184187cdb68b779aeb"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_12.csv",
+      "filename": "covariates_12.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_12.csv",
+      "bytes": 8156,
+      "sha256": "aa889c957ce113eda85133028940e7a70bfab3c3e77cfd53dba83ae97a3926c9"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_13.csv",
+      "filename": "covariates_13.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_13.csv",
+      "bytes": 7807,
+      "sha256": "0995c8e7a06e76a1f0f075ecd21c52cf0245f348ea59e91f9fcbd12c1ae331d6"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_14.csv",
+      "filename": "covariates_14.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_14.csv",
+      "bytes": 7397,
+      "sha256": "64767c5018dd6c0acdc48ccce5381fa7adec791511dc40e6ba73e7cef90bf32c"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_15.csv",
+      "filename": "covariates_15.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_15.csv",
+      "bytes": 6880,
+      "sha256": "19f427f9b029012c42f5895963df0339e3331880d69fcbeec6babdd1af274182"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_16.csv",
+      "filename": "covariates_16.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_16.csv",
+      "bytes": 11832,
+      "sha256": "90920b3ba9d1f9b81285cb1206d94d9a2363b0643e96da189eff451fcce35514"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_17.csv",
+      "filename": "covariates_17.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_17.csv",
+      "bytes": 8774,
+      "sha256": "12eb89f131bde7648a7ddbd64442122cbac67f890aeeb29a37381e7a454169cd"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_18.csv",
+      "filename": "covariates_18.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_18.csv",
+      "bytes": 10314,
+      "sha256": "f0a5b2981ddfb551372db9dd6457383d6084d9e4d727e335b1cc8c6cdb21f838"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_19.csv",
+      "filename": "covariates_19.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_19.csv",
+      "bytes": 10549,
+      "sha256": "b956cf7acfa5e5f6c10301ec205217437b3b86d6d218493b04b97663e0a6b5b9"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_2.csv",
+      "filename": "covariates_2.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_2.csv",
+      "bytes": 5294,
+      "sha256": "068e0bb78b287581b717582ce64aacbdad35cf09200bcf0c5efb51fa7f1485df"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_20.csv",
+      "filename": "covariates_20.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_20.csv",
+      "bytes": 5756,
+      "sha256": "987995c1786e466678569c5e0fcaa08bd40a0ee5d3fe1fe11de5b90b915d608d"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_21.csv",
+      "filename": "covariates_21.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_21.csv",
+      "bytes": 7728,
+      "sha256": "e595ca930e3b0646d8b5946ec9a585f3ed7d85cc01aaf47b8b909a0ade659536"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_22.csv",
+      "filename": "covariates_22.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_22.csv",
+      "bytes": 7823,
+      "sha256": "f8f3d2b1d4c6ce6eb246357e8d9540da013ca1fbde7945ebbc022689d75cc113"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_23.csv",
+      "filename": "covariates_23.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_23.csv",
+      "bytes": 6943,
+      "sha256": "8fac5a068efab81f5ea45016acf440087d2ba45995e0bd72c3ebf82ae66a6690"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_24.csv",
+      "filename": "covariates_24.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_24.csv",
+      "bytes": 9687,
+      "sha256": "ead96537701e78c4fe0ff5b61174478df8e19bb9576608152aa5bc47f65aeaee"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_25.csv",
+      "filename": "covariates_25.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_25.csv",
+      "bytes": 15279,
+      "sha256": "14a5297fdf464d25f8df399adf8fe9fd9068849efdfacb6cfa2ca1e06ab7e326"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_26.csv",
+      "filename": "covariates_26.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_26.csv",
+      "bytes": 5428,
+      "sha256": "2dbfb0f79efe679b297f453381f68a31f64c3f02efb99254c238740a709f2a85"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_27.csv",
+      "filename": "covariates_27.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_27.csv",
+      "bytes": 99,
+      "sha256": "e0f9aaf223b915bb59cdbb1a4657c0c6653c27ab80c47749c2eba7b2aee35a32"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_28.csv",
+      "filename": "covariates_28.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_28.csv",
+      "bytes": 6213,
+      "sha256": "5e0c71d84a85db4a3256031e2fb04097cb7c1cffe4e8a516a2cf36a619894521"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_29.csv",
+      "filename": "covariates_29.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_29.csv",
+      "bytes": 9967,
+      "sha256": "e58b6a83dab9b4db6d1dfdddbb470a2819b2269e70b48feb905bef45eebaa4e6"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_3.csv",
+      "filename": "covariates_3.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_3.csv",
+      "bytes": 5784,
+      "sha256": "3d362102e8502bd4148cab77f67fe19e07814881874471a02d919234f5db248f"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_30.csv",
+      "filename": "covariates_30.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_30.csv",
+      "bytes": 8665,
+      "sha256": "538de7e7bdb065ec21858850461f736f88cd9672361b9ccbc878c82ea6f138c5"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_31.csv",
+      "filename": "covariates_31.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_31.csv",
+      "bytes": 8921,
+      "sha256": "a141cc7cd467d21ce8b0fcb68173122c80d00047b267da16bd689521ef068a3a"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_32.csv",
+      "filename": "covariates_32.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_32.csv",
+      "bytes": 8102,
+      "sha256": "4c94cb22576eed05cd8dcdf17535625db9a3482ff39c4fee627a6a72c0c4f1f2"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_33.csv",
+      "filename": "covariates_33.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_33.csv",
+      "bytes": 8454,
+      "sha256": "0543b855e0de119fff686228933871a6729c2b57dc6afc8b4884095e2e7625b5"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_34.csv",
+      "filename": "covariates_34.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_34.csv",
+      "bytes": 10864,
+      "sha256": "1845f063700b671e414fa856556dfc61c73a56d285f413a353f20b031b14deb5"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_35.csv",
+      "filename": "covariates_35.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_35.csv",
+      "bytes": 9960,
+      "sha256": "18f995f11928dc5f3652a93ac4fc96778027df028891cfb81d23dd4169f31eb5"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_36.csv",
+      "filename": "covariates_36.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_36.csv",
+      "bytes": 6336,
+      "sha256": "7d7d4257f64cb2acc89de41a3fe69ea93ba1165f0b8db0c6f15e6d77fb9bc016"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_37.csv",
+      "filename": "covariates_37.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_37.csv",
+      "bytes": 5820,
+      "sha256": "bb7a704f7e13670c19e1829bd0266cb638fd9b3f6accbe52541d0a6f2117fc47"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_38.csv",
+      "filename": "covariates_38.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_38.csv",
+      "bytes": 6246,
+      "sha256": "a4512360db71eb5cf384e7277ef0560a8a73a13f2f857b13c6f76f1a1519271f"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_39.csv",
+      "filename": "covariates_39.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_39.csv",
+      "bytes": 5904,
+      "sha256": "3d9ab38962845498800ec1c12c159daafdf3b0728e7c63b15bc2927c7c35fa5a"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_4.csv",
+      "filename": "covariates_4.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_4.csv",
+      "bytes": 8078,
+      "sha256": "bfbfe81edf42428fca860ea0dd97aa321ee2990f3b983f9345f70b1d35c44496"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_40.csv",
+      "filename": "covariates_40.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_40.csv",
+      "bytes": 7709,
+      "sha256": "2a465d66ab0347242bae2e9918f58126bbf7303dcc577f07fa41aa8d8766e13e"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_41.csv",
+      "filename": "covariates_41.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_41.csv",
+      "bytes": 4608,
+      "sha256": "f794e4963bb54b7091990a4f8fb81152f15cf96c7ebcadd886ff6cf59868c140"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_42.csv",
+      "filename": "covariates_42.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_42.csv",
+      "bytes": 12851,
+      "sha256": "68a96dad62be288d2bd0ecc10cbcd04f5c9e7ee0b25be92085f75261c49217f5"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_43.csv",
+      "filename": "covariates_43.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_43.csv",
+      "bytes": 15135,
+      "sha256": "c30b8cad2d94232e1fda2ce0e9d48473bdab3a555bd4c4189af6e3173686af5c"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_44.csv",
+      "filename": "covariates_44.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_44.csv",
+      "bytes": 6729,
+      "sha256": "240afc9f4eefdbb6b72d39ef96bd1280f409fbc4855d1be996ea8c70b781ec61"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_45.csv",
+      "filename": "covariates_45.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_45.csv",
+      "bytes": 6053,
+      "sha256": "89dab95438cf4c78eddc11691469834fef376492d90efd7b107ebb2ca8d92acf"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_46.csv",
+      "filename": "covariates_46.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_46.csv",
+      "bytes": 6496,
+      "sha256": "c4e8aa5eb26165eb74d6d5c4863c87be53e5e5cfdf4061bad1e719d401e81f25"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_47.csv",
+      "filename": "covariates_47.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_47.csv",
+      "bytes": 8022,
+      "sha256": "f3231f182365ab500ed764f144bb236501e3246df4c5ad3be78170edd0807947"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_48.csv",
+      "filename": "covariates_48.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_48.csv",
+      "bytes": 7804,
+      "sha256": "e26c5737c72f13d329b1ef04df5898b238ffe485ab2c52227397665d63fbf210"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_49.csv",
+      "filename": "covariates_49.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_49.csv",
+      "bytes": 8808,
+      "sha256": "a63a461337c2f930824167e786a1ed8e9bbf192d5988303e4b268b7d94ca9968"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_5.csv",
+      "filename": "covariates_5.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_5.csv",
+      "bytes": 5492,
+      "sha256": "eb3e01bf0fba2c7c82780cbfe70a2311cb2efa77dc4c03813a0b266aacf7fefb"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_50.csv",
+      "filename": "covariates_50.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_50.csv",
+      "bytes": 7704,
+      "sha256": "bb6993c4019e79525d6f26f55c2bd454259f9d5490d5f6000567e0252ba5a609"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_51.csv",
+      "filename": "covariates_51.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_51.csv",
+      "bytes": 6970,
+      "sha256": "b41a300a29b779b435c1e2710068fd22d073afee6f1fbde43254e76a687965c9"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_52.csv",
+      "filename": "covariates_52.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_52.csv",
+      "bytes": 13667,
+      "sha256": "a4aebcbd4f0fee8276fba2699639b68e5029dca999f4694c6a4369c6178e70a7"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_53.csv",
+      "filename": "covariates_53.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_53.csv",
+      "bytes": 6406,
+      "sha256": "9e452b031df7bcafef3cd3beda78643e93392ea97694e0be86f855027fc47e59"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_54.csv",
+      "filename": "covariates_54.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_54.csv",
+      "bytes": 6908,
+      "sha256": "f4b8e655832003946906c5507f0263ddea6976694ce358d2a8691d60ec1a66de"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_55.csv",
+      "filename": "covariates_55.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_55.csv",
+      "bytes": 6165,
+      "sha256": "41ea27213f0fcaedcf11bd4a21089fd2efd1ac19379e7dbd314782b0c9e1a6bf"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_56.csv",
+      "filename": "covariates_56.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_56.csv",
+      "bytes": 8568,
+      "sha256": "48ecea81f474b4388725150585843ef3882d7d0c08fdb1156997350dfc3217c9"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_57.csv",
+      "filename": "covariates_57.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_57.csv",
+      "bytes": 5740,
+      "sha256": "8bc9eebb512b193bd78e4601a9a53b506e9d67fe0304a726e45062d7bf09c71e"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_58.csv",
+      "filename": "covariates_58.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_58.csv",
+      "bytes": 5543,
+      "sha256": "7f6b6367de2fedb4fa982edae71d044e602cf29713cc41fc44374dc282d518fd"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_59.csv",
+      "filename": "covariates_59.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_59.csv",
+      "bytes": 8627,
+      "sha256": "eb9ba6876b549f9a107b8a91c78bec74cd374da026f9c7c9783e7c8c371a3f45"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_6.csv",
+      "filename": "covariates_6.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_6.csv",
+      "bytes": 5622,
+      "sha256": "ad9d1e097f7bee041680332a4db2d25e70e908f3cae7bad7cc7660893d63db11"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_60.csv",
+      "filename": "covariates_60.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_60.csv",
+      "bytes": 8290,
+      "sha256": "9320ee76e3197f7cf3e1d4d74fabda2f206110e1415c7cd6a0f4a6dcd217c459"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_61.csv",
+      "filename": "covariates_61.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_61.csv",
+      "bytes": 13526,
+      "sha256": "daa9df9b3bed81913e0cd269abfb6561b179f1802bafb901a51d70989e7da34c"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_62.csv",
+      "filename": "covariates_62.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_62.csv",
+      "bytes": 8865,
+      "sha256": "48670dd171f1ae3016fb4cc09d9462c2e90b7852e23b48197baf12c42a73429a"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_63.csv",
+      "filename": "covariates_63.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_63.csv",
+      "bytes": 6708,
+      "sha256": "65fafeba2a9e60762cb80f8832002dc589768e8c10b47e580e7d3e63704bad1e"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_64.csv",
+      "filename": "covariates_64.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_64.csv",
+      "bytes": 8024,
+      "sha256": "b8405493e7772b7f8e4677c606b831d54f6adaa04a709554b7ecef0d3454c84e"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_65.csv",
+      "filename": "covariates_65.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_65.csv",
+      "bytes": 8179,
+      "sha256": "dcabf08bdad1f8c476621212485093a849263078a826d68d70d31dc67910f4e6"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_66.csv",
+      "filename": "covariates_66.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_66.csv",
+      "bytes": 10525,
+      "sha256": "05f0d6b3fb752af83931124faf13cd54f60b9887bebd71a1feb467c3a6fe6410"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_67.csv",
+      "filename": "covariates_67.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_67.csv",
+      "bytes": 6614,
+      "sha256": "2e19cb23cd5cfe11bbe3dfbc019f0465c71fa04a5ab801a0935bf13c648da315"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_68.csv",
+      "filename": "covariates_68.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_68.csv",
+      "bytes": 7742,
+      "sha256": "1f241b2597b5d329544d97fe4fdf8d6442a19cb5e57899b2d596cbf9f374077e"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_69.csv",
+      "filename": "covariates_69.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_69.csv",
+      "bytes": 6308,
+      "sha256": "42d60dbcfc560fc43151a62de465aaafd91a1ae08c1c1bbf9fca0577d8e26615"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_7.csv",
+      "filename": "covariates_7.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_7.csv",
+      "bytes": 6592,
+      "sha256": "7f6d29d6f22aefd39867abcec995414c9a608da2cb387135890f9a4b80ad2109"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_70.csv",
+      "filename": "covariates_70.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_70.csv",
+      "bytes": 6326,
+      "sha256": "19e91acf353f3d434cc1b37812fab38e5e24b5f50ab6af96ad9c98dc2885e667"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_71.csv",
+      "filename": "covariates_71.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_71.csv",
+      "bytes": 7826,
+      "sha256": "9d40d7a6ebbf251633912ee6fff69a4a113595d8c2e837806a4cb7368a898a06"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_8.csv",
+      "filename": "covariates_8.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_8.csv",
+      "bytes": 5777,
+      "sha256": "6c05d2f317d8bf19c5c20a49159ebd68c55c98724a87c8bab1060921a23a4fc3"
+    },
+    {
+      "source_path": "data/raw/rct_villages/hh_covariates_by_village/covariates_9.csv",
+      "filename": "covariates_9.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/hh_covariates_by_village/covariates_9.csv",
+      "bytes": 5789,
+      "sha256": "e321c34c5fd92526221974e51d824a701a43a062377243cb5762d0a951da040f"
+    }
+  ]
+}

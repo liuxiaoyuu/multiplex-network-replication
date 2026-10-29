@@ -1,0 +1,13 @@
+library(haven);library(jsonlite)
+o<-as.data.frame(read_dta('private_inputs/gossip_sources/Final_Data/data/karnataka_cell_rct.dta'))
+d<-as.data.frame(read_dta('private_inputs/rct_village_diffusion_outcomes.dta'))
+a<-read.csv('results/node_seed_audit.csv')
+o<-o[!is.na(o$villageid),];d<-d[!is.na(d$villageid),]
+stopifnot(!anyDuplicated(o$villageid),!anyDuplicated(d$villageid))
+s<-merge(d,o,by='villageid',suffixes=c('_2026','_2019'))
+gaps<-sapply(c('num_hh_random','CallsReceived','num_seeds'),function(x)max(abs(s[[paste0(x,'_2026')]]-s[[paste0(x,'_2019')]])))
+m<-merge(a,o,by.x='village',by.y='villageid')
+stopifnot(nrow(s)==70,all(gaps==0),nrow(m)==69)
+out<-list(status='PASS',matched_villages=70,max_absolute_differences=as.list(gaps),network_villages=69,seed_count_discrepancies=sum(m$seed_count!=m$num_seeds),equal_seed_counts=sum(m$seed_count==m$num_seeds),missing_household_rows=sum(m$missing_hh_rows),assigned_count_columns_agree=all(m$NumberofSeeds==m$num_seeds),interpretation='Counts need clarification; no author error is inferred.')
+write_json(out,'results/historical_source_audit.json',pretty=TRUE,auto_unbox=TRUE)
+print(out)

@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-28",
+  "repo": "v-asu/multiplexing-and-diffusion-replication-package",
+  "commit": "c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f",
+  "files": [
+    {
+      "source_path": "data/raw/rct_villages/rct_village_diffusion_outcomes.dta",
+      "filename": "rct_village_diffusion_outcomes.dta",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/raw/rct_villages/rct_village_diffusion_outcomes.dta",
+      "bytes": 9931,
+      "sha256": "3084cb6a195ecc6f966b4b8fd8d54e6755bbc2a1229bf7e1edd826d0f4ef5c65",
+      "git_blob": "dc37b5cb79935ec4dcbca2ef76d8e195e3da0576"
+    },
+    {
+      "source_path": "data/processed/rct_villages/rct_village_seed_diffusion_centrality.csv",
+      "filename": "rct_village_seed_diffusion_centrality.csv",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/data/processed/rct_villages/rct_village_seed_diffusion_centrality.csv",
+      "bytes": 15143,
+      "sha256": "614f4d532b357115ba68dc72d54ef16b8bf14779749e08549f7be9a57c406cb8",
+      "git_blob": "266eb0d4f0bdece5ac8b4a0176c9a446af757dbc"
+    },
+    {
+      "source_path": "tables/tab_si_02_seed_dc_by_layer.tex",
+      "filename": "tab_si_02_seed_dc_by_layer.tex",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/tables/tab_si_02_seed_dc_by_layer.tex",
+      "bytes": 2444,
+      "sha256": "70bf66490e42376f62ea889521738dd07caf01d8f207feb137fd5a2d5515c1ae",
+      "git_blob": "a639454fc6d89a90031f34097ef7649512203aea"
+    },
+    {
+      "source_path": "code/00_functions.R",
+      "filename": "00_functions.R",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/code/00_functions.R",
+      "bytes": 10437,
+      "sha256": "75eab8e4226573c0cb5b2a4cbf3bb67286006333a23a8508ab55f6f78f779569",
+      "git_blob": "7d8da7940f8d5dc5045db6053302f481da90534c"
+    },
+    {
+      "source_path": "code/05_main_regs.R",
+      "filename": "05_main_regs.R",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/code/05_main_regs.R",
+      "bytes": 16424,
+      "sha256": "f2d2fa404b2e70d56f9528532f520f46b356f43a17c42822b8be43c2ab191d41",
+      "git_blob": "af95e0c39d45eb079c14740a15489a5a7084e07c"
+    },
+    {
+      "source_path": "code/04_diffusion_centrality.R",
+      "filename": "04_diffusion_centrality.R",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/code/04_diffusion_centrality.R",
+      "bytes": 3665,
+      "sha256": "f9158f4f0577308deebb50715da09715820228e10bc5852c1e21decc0444eb41",
+      "git_blob": "32e55f741f84609bdf5e8b4729467175b3a88d2e"
+    },
+    {
+      "source_path": "README.md",
+      "filename": "README.md",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/README.md",
+      "bytes": 6753,
+      "sha256": "39e44920e9b0301fd15bae0d17b79279b464457ca2eb2de093b7ea9a6eaf387d",
+      "git_blob": "cc44ab172ec75985e081426c1ec3704ac808a494"
+    },
+    {
+      "source_path": "DATA_DICTIONARY.md",
+      "filename": "DATA_DICTIONARY.md",
+      "url": "https://raw.githubusercontent.com/v-asu/multiplexing-and-diffusion-replication-package/c3d9dbafafb2674cc7ca3fdca9bc4b4bca76c20f/DATA_DICTIONARY.md",
+      "bytes": 4071,
+      "sha256": "f8dfc22b9a780a7331f10595d27fa0505f419c8c016777a660d8c9fa6dc633b5",
+      "git_blob": "7f148ba24b963004bbeb3a7e5da370d09e6e6f11"
+    },
+    {
+      "filename": "article.xml",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13367815/fullTextXML",
+      "bytes": 215316,
+      "sha256": "30640ecfefdabf726eb1ce9dfe8bf2d72bb22cf73e13756d2d86ff2696602e69"
+    }
+  ],
+  "supplement_status": "Resolved on 2026-10-29: complete final PDFs verified, see final_article_sources.json",
+  "license_files_found": []
+}

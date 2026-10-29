@@ -1,0 +1,11 @@
+{
+  "file": "docs/ANALYSIS_PLAN_20261028.md",
+  "sha256": "27a1b07ce24f256c2ebc3b16ae1a3dc4f0b12022efcba7adb2f89f4747ab3d71",
+  "documentation_revision_date": "2026-10-29",
+  "hash_scope": "Current public methods description, edited after results; not evidence of external preregistration.",
+  "original_local_record": {
+    "sha256": "3a768acb202697c684d6ea709882cfcf7fe04342fb969910940d251b079fd046",
+    "frozen_at_utc": "2026-10-28T15:19:34.594991+00:00",
+    "extension_predictions_computed": false
+  }
+}

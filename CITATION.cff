@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this project and the original PNAS article when using this reproduction."
+title: "Multiplex network replication"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Xiaoyu
+version: 0.1.0
+license: MIT
+abstract: "Partial reproduction of Chandrasekhar et al. (2026) SI Table S2 with nested predictive-sensitivity checks. Eight network layers are rebuilt independently; the PCA backbone remains author-supplied."

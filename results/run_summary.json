@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-28",
+  "status": "PASS",
+  "models": 9,
+  "scope": "Eight independently rebuilt network layers + supplied backbone; original village outcome data; HC2 independent OLS",
+  "runtime_seconds": 0.347,
+  "R": "R version 4.6.0 (2026-04-24)",
+  "packages": {
+    "haven": "2.5.5",
+    "jsonlite": "2.0.0"
+  }
+}

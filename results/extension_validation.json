@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-28",
+  "status": "PASS",
+  "N": 68,
+  "models": 5,
+  "outer_fits": 590,
+  "predictions": 3740,
+  "runtime_seconds": 10.152,
+  "OLS_PRESS_max_gap": 7.4252e-13,
+  "ridge_SVD_max_gap": 3.8455e-11,
+  "heldout_outcome_perturbation_gap": 0,
+  "primary_contrast": "RMSE(C_five_OLS) minus RMSE(B_advice)",
+  "inferential_pvalues_computed": false,
+  "plan": {
+    "file": "docs/ANALYSIS_PLAN_20261028.md",
+    "sha256": "3a768acb202697c684d6ea709882cfcf7fe04342fb969910940d251b079fd046",
+    "frozen_at_utc": "2026-10-28T15:19:34.594991+00:00",
+    "extension_predictions_computed": false
+  }
+}

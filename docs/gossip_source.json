@@ -1,0 +1,8 @@
+{
+  "url": "https://web.stanford.edu/~jacksonm/GossipFinalData.zip",
+  "retrieved": "2026-10-29",
+  "bytes": 7507053,
+  "sha256": "bcc040fdd287b7cbce677854e84a8cabe19a4ddcc1919cf4c16839f16bf6f1ed",
+  "purpose": "Provenance audit only; not required to execute the 2026 models",
+  "redistributed": false
+}

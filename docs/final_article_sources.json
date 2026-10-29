@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-28",
+  "source": "NIH NLM PMC Article Datasets on AWS",
+  "versions": [
+    "PMC13367815.1/"
+  ],
+  "files": [
+    {
+      "file": "PMC13367815.1.pdf",
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13367815.1/PMC13367815.1.pdf?md5=69eeb3214731e2448652b0d678c86013",
+      "bytes": 2408854,
+      "md5": "69eeb3214731e2448652b0d678c86013",
+      "sha256": "229435f14c6f7c7c9cb6aa25d709e9ecbc69e41e5cc982a66e1b1270c3fce8c7"
+    },
+    {
+      "file": "pnas.2534923123.sapp.pdf",
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13367815.1/pnas.2534923123.sapp.pdf?md5=9c46791844d88f7c2f9f3b9d732e7295",
+      "bytes": 822161,
+      "md5": "9c46791844d88f7c2f9f3b9d732e7295",
+      "sha256": "a11ea181ec882064a180cbbd774741c12ace0439b89637062ccb419571e2242d"
+    }
+  ]
+}

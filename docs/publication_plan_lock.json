@@ -1,0 +1,11 @@
+{
+  "file": "docs/PUBLICATION_AMENDMENT.md",
+  "sha256": "70e5c81ca71b945d6e00d6bf391910ce722b221756de2a35a4b0532c9d844744",
+  "documentation_revision_date": "2026-10-29",
+  "hash_scope": "Current public methods description, edited after results; not evidence of external preregistration.",
+  "original_local_record": {
+    "sha256": "d151871dc94ae295489fb775509cf0fb92760c034d83ff86b62b086726d18df4",
+    "frozen_at_utc": "2026-10-28T15:58:43.718710+00:00",
+    "prior_extension_results_known": true
+  }
+}

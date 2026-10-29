@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "date": "2026-10-29",
+  "count_max_gradient": 2.406027572177e-07,
+  "BFGS_max_prediction_gap": 1.440031989119e-05,
+  "heldout_outcome_perturbation_gap": 0,
+  "sensitivity_PRESS_gap": 6.465938895417e-13,
+  "count_inner_fits": 29500,
+  "count_outer_fits": 236,
+  "all_fits_converged": true,
+  "runtime_seconds": 14.771,
+  "plan": {
+    "file": "docs/PUBLICATION_AMENDMENT.md",
+    "sha256": "d151871dc94ae295489fb775509cf0fb92760c034d83ff86b62b086726d18df4",
+    "frozen_at_utc": "2026-10-28T15:58:43.718710+00:00",
+    "prior_extension_results_known": true
+  }
+}

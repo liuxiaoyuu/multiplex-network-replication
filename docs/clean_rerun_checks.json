@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-29",
+  "all_identical": true,
+  "files": [
+    {
+      "file": "network_reconstruction.csv",
+      "identical": true,
+      "sha256": "033ed9155027d573a4261204e7b22ecb3f41c8be92302a97018172c2c28f437b"
+    },
+    {
+      "file": "rebuilt_seed_centrality.csv",
+      "identical": true,
+      "sha256": "1753d3f36dabba70416863eb480b825d5d85c9e65ead0a36646ff658936435fc"
+    },
+    {
+      "file": "figure2_table_s2_comparison.csv",
+      "identical": true,
+      "sha256": "58b9110c460bb2957eb086b496fc307f8dde6ed151fa98206873cc7cea5e58ec"
+    },
+    {
+      "file": "heldout_predictions.csv",
+      "identical": true,
+      "sha256": "37f4a30abe46486c68ff852c2e4faf96ffd0adbaa8c853770596cb64bf041bfb"
+    },
+    {
+      "file": "prediction_metrics.csv",
+      "identical": true,
+      "sha256": "af367b76856d876bbe25b9ca6d6f635da606782db99468a114e2f693d1953e36"
+    },
+    {
+      "file": "model_contrasts.csv",
+      "identical": true,
+      "sha256": "81535c85c22beffc876f04aba29241d764fc426bc518ec176fe0781880c30a52"
+    },
+    {
+      "file": "count_predictions.csv",
+      "identical": true,
+      "sha256": "44e44496b0179d05a18b6e9f05236b7d6b3b61efff6c720486ccbe5060e83e4e"
+    },
+    {
+      "file": "count_metrics.csv",
+      "identical": true,
+      "sha256": "c32374bfeaad37b2435b32df602f185c28236867cb812bb3227a4e648dc2a068"
+    },
+    {
+      "file": "measurement_sensitivity.csv",
+      "identical": true,
+      "sha256": "e05108e0bc64f4d09e9ba1a144c1dfb06a19a1a4c4235472981c58ffcd9d2813"
+    },
+    {
+      "file": "deletion_sensitivity.csv",
+      "identical": true,
+      "sha256": "ea644f4a7b716577175796b3a7fe28cbb31a00005bf05fb61c5a1a0efc6e56f9"
+    },
+    {
+      "file": "corrected_resampling_intervals.csv",
+      "identical": true,
+      "sha256": "f73924ce052d0f1e074d8a79e1269c8c8703035a6e5d353fea1ef89e6a6cfdc9"
+    }
+  ]
+}
